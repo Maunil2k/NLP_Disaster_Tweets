@@ -23,3 +23,8 @@ The training accuracy was 88.26% whereas the validation accuracy was 74.98%. Sim
 
 # Further Scope
 As seen in the graphs above, the validation accuracy was poor as compared to the training accuracy which indiactes the model is overfitting even though I've added L1L2 regularization in every LSTM layer followed by random dropouts. To improve the accuracy further it is recommended to use a transformer model like BERT that too pretrained ones for better accuracy. HuggingFace🤗 provides a lot of pretrained models that can be used for text classification purposes [HuggingFace](https://huggingface.co/models?pipeline_tag=text-classification&sort=downloads).
+<br /><br /><br />
+
+# References
+1. [Competition Link](https://www.kaggle.com/competitions/nlp-getting-started/overview)
+2. Tweet screenshot: [Twitter Link](https://twitter.com/AnyOtherAnnaK/status/629195955506708480)
