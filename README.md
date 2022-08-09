@@ -15,4 +15,5 @@ Since this is one of my few beginner level competitions in the domain of Natural
 
 # Results
 The training accuracy was 88.26% whereas the validation accuracy was 74.98%. Similarly, the training loss recorded was 0.3785 whereas validation loss recorded was 0.5974. <br/>
-<img align="right" width="200" height="300" src="https://user-images.githubusercontent.com/51321172/183611678-9927cd79-6929-4bc9-82dc-041d0f3411bf.png">
+<img align="right" width="500" height="300" src="https://github.com/Maunil2k/NLP_Disaster_Tweets/blob/master/images/model_accuracy.jpg">
+<img align="left" width="500" height="300" src="https://github.com/Maunil2k/NLP_Disaster_Tweets/blob/master/images/model_loss.jpg">
